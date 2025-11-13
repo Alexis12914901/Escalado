@@ -1,1 +1,2 @@
 "# Escalado" 
+print("Hola mundo")
